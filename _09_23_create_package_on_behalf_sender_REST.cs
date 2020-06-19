@@ -24,7 +24,7 @@ namespace FeatureGuideCharp
             sb.AppendLine("    \"type\": \"PACKAGE\",                                                                     ");
             sb.AppendLine("    \"name\": \"Sender On Behalf Of Sender2\",                                                   ");
             sb.AppendLine("    \"sender\": {                                                                               ");
-            sb.AppendLine("    \"email\": \"your_sender_email\"                                                       ");
+            sb.AppendLine("    \"email\": \"shrutimukherjee2020@gmail.com\"                                                       ");
             sb.AppendLine("    }                                                                                           ");
             sb.AppendLine("}                                                                                               ");
 
@@ -54,7 +54,7 @@ namespace FeatureGuideCharp
             sb2.AppendLine("    \"visibility\":\"ACCOUNT\",                                                                 ");
             sb2.AppendLine("    \"name\": \"Sender On Behalf Of Sender2\",                                                   ");
             sb2.AppendLine("    \"sender\": {                                                                               ");
-            sb2.AppendLine("    \"email\": \"your_sender_email\"                                                       ");
+            sb2.AppendLine("    \"email\": \"shrutimukherjee2020@gmail.com\"                                                       ");
             sb2.AppendLine("    }                                                                                           ");
             sb2.AppendLine("}                                                                                               ");
 
